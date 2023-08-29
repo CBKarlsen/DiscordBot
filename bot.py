@@ -42,4 +42,6 @@ async def linda(ctx):
     await ctx.send("Linda er deilig")
 
 
-bot.run('MTE0NjEyOTAzMDk1ODAzOTA3MA.G6kzHJ.4-RiMv97b2AUnU8KJQwLQKHofSxoGQ41ktEYg8')
+bot.run('.YOUR TOKEN HERE')
+
+"https://discord.com/developers/applications"
